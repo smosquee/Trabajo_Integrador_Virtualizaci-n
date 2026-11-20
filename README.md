@@ -8,4 +8,4 @@ Trabajo Integrador de Arquitectura y Sistemas Operativos (UTN, Tecnicatura en Pr
 
 ## Enlace al video demostrativo y a la documentación en PDF
  - Documentación en PDF: 
-- Vídeo explicativo: 
+- Vídeo explicativo: https://drive.google.com/file/d/1Ro_5eWZba5l6bNmGIB3HlDtPDMSS6w2W/view?usp=sharing
